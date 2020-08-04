@@ -1,16 +1,26 @@
-### Hi there 👋
+![seb](https://github.com/sebastienfr/sebastienfr/blob/master/docs/seb-sfeir-nb-lunette.jpg?raw=true)
 
-<!--
-**sebastienfr/sebastienfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## [seb](https://www.linkedin.com/in/sebastienfr/) @ [sfeir.com](https://www.sfeir.com)
 
-Here are some ideas to get you started:
+- ⚙️ Developer & Engineering director at [SFEIR Lille](https://g.page/sfeir-lille?share)
+- 🤓 Happy gopher, [golang trainer](https://github.com/sfeir-open-source/sfeir-school-go)
+- ☁️ Certified cloud rider
+- 📬 Reach me on twitter [@sebastienfriess](https://twitter.com/sebastienfriess)
+- 🚲 Work cycling since 2008
+- 🥃 Rum lover
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![seb](https://github.com/sebastienfr/sebastienfr/blob/master/docs/gcp.png?raw=true) 
+![seb](https://github.com/sebastienfr/sebastienfr/blob/master/docs/go.png?raw=true)
+![seb](https://github.com/sebastienfr/sebastienfr/blob/master/docs/gopher-dance.gif?raw=true)
+
+![seb](https://github.com/sebastienfr/sebastienfr/blob/master/docs/strangersfeir.png?raw=true)
+ 
+
+
+
+
+
+
+
+
